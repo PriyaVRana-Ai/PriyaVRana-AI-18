@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { background: #0A0A0F; color: #fff; }
+.glow-red { box-shadow: 0 0 20px rgba(217,4,41,0.5); }
+.glass { background: rgba(20,20,30,0.6); backdrop-filter: blur(10px); border: 1px solid rgba(255,215,0,0.2); }
+.text-royalgold { color: #FFD700; }
+.bg-royalred { background-color: #D90429; }
