@@ -20,13 +20,6 @@
     "@types/react": "^18",
     "tailwindcss": "^3.4.1",
     "postcss": "^8",
-    "autoprefixer": "^10"
-  "devDependencies": {
-    "typescript": "^5",
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "tailwindcss": "^3.4.1",
-    "postcss": "^8",
     "autoprefixer": "^10",
     "@netlify/plugin-nextjs": "^5.8.1"
   },
